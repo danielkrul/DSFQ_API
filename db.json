@@ -1,11 +1,5 @@
 {
-  "api": {
-    "v1": {
-      "user": {
-        "login": {
-          "token": "Lorem impsum dolor sit amet"
-        }
-      }
-    }
+  "api/v1/user/login": {
+    "token": "Lorem impsum dolor sit amet"
   }
 }

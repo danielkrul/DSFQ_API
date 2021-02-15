@@ -1,11 +1,11 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+  "api": {
+    "v1": {
+      "user": {
+        "login": {
+          "token": "Lorem impsum dolor sit amet"
+        }
+      }
     }
-  ],
-  "profile": {
-    "name": "jaffa"
   }
 }
